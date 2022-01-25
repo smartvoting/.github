@@ -1,4 +1,4 @@
-![Smart Voting Logo](sv-logo.png)
+![Smart Voting Logo](https://github.com/smartvoting/.github/blob/main/profile/sv-logo.png)
 
 # Smart Voting
 
