@@ -29,6 +29,5 @@ For the technology stack, we are mainly using the Amazon Web Services ecosystem.
   - [Amazon RDS for PostgreSQL](https://aws.amazon.com/rds/postgresql/)
   - [Amazon DynamoDB](https://aws.amazon.com/dynamodb/)
   - [Amazon Quantum Ledger Database](https://aws.amazon.com/qldb/)
-- Storage: [Amazon S3](https://aws.amazon.com/s3/)
-- VM Instances: [Amazon EC2](https://aws.amazon.com/ec2/)
+- VM Instances: [Amazon App Runner](https://aws.amazon.com/apprunner/)
 - DNS Service: [Amazon Route 53](https://aws.amazon.com/route53/)
