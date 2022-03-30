@@ -8,8 +8,8 @@ Smart Voting is a platform designed and developed for a Capstone Project at Geor
 
 ## Project Links
 
-- [Smart Voting Website](https://smartvoting.cc/)
-- [Smart Voting API](https://api.smartvoting.cc/index.html)
+- [Smart Voting Website (smartvoting.cc)](https://smartvoting.cc/)
+- [Smart Voting API (api.smartvoting.cc)](https://api.smartvoting.cc/index.html)
 
 ## Project Description
 
