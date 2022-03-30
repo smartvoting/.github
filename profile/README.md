@@ -8,7 +8,8 @@ Smart Voting is a platform designed and developed for a Capstone Project at Geor
 
 ## Project Links
 
-- [Smart Voting Documentation (https://docs.smartvoting.cc/)](https://docs.smartvoting.cc/)
+- [Smart Voting Website](https://smartvoting.cc/)
+- [Smart Voting API](https://api.smartvoting.cc/index.html)
 
 ## Project Description
 
@@ -23,7 +24,7 @@ Currently, all repositories have been set to private. Upon completion of the Cap
 For the technology stack, we are mainly using the Amazon Web Services ecosystem.
 
 - Front End: React
-- Back End: NodeJS
+- Back End: C#, ASP.NET 6 Web API
 - Databases:
   - [Amazon RDS for PostgreSQL](https://aws.amazon.com/rds/postgresql/)
   - [Amazon DynamoDB](https://aws.amazon.com/dynamodb/)
