@@ -19,8 +19,8 @@ The Smart Voting platform is a secure web application that allows for elections 
 
 For the technology stack, we are mainly using the Amazon Web Services ecosystem.
 
-- Front End: React
-- Back End: C# & .NET 6 Web API
+- Front End: [React](https://reactjs.org/)
+- Back End: [C# and .NET 6 Web API](https://dotnet.microsoft.com/en-us/apps/aspnet/apis)
 - Databases:
   - [Amazon RDS for PostgreSQL](https://aws.amazon.com/rds/postgresql/)
   - [Amazon DynamoDB](https://aws.amazon.com/dynamodb/)
