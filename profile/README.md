@@ -26,4 +26,4 @@ For the technology stack, we are mainly using the Amazon Web Services ecosystem.
   - [Amazon DynamoDB](https://aws.amazon.com/dynamodb/)
   - [Amazon Quantum Ledger Database](https://aws.amazon.com/qldb/)
 - VM Instances: [Amazon App Runner](https://aws.amazon.com/apprunner/)
-- DNS Service: [Amazon Route 53](https://aws.amazon.com/route53/)
+- DNS Service: [Cloudflare](https://cloudflare.com/)
